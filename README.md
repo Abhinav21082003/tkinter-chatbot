@@ -20,8 +20,13 @@ Graphical User Interface (GUI): The user interacts with the chatbot using a GUI 
 Technologies Used:
 
 Python: The programming language used to build the application.
+
 Tkinter: For creating the graphical user interface.
+
 NLTK: For text processing, including tokenization, stopword removal, and lemmatization.
+
 BeautifulSoup: For web scraping to extract data from the Wikipedia page.
+
 Requests: For making HTTP requests to fetch webpage content.
+
 Scikit-learn: To perform TF-IDF vectorization and calculate cosine similarity.
